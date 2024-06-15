@@ -1,4 +1,4 @@
-# Math-BaoYan
+# Math-BAOYAN
 
 该repo包含数学保研可以用到的资料与经验贴，用者自取。佬们看看，如果有用可以给属鼠一个star。
 
